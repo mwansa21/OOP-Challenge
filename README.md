@@ -62,3 +62,6 @@ Deadline: [Set your date]
 Submission format: clone / fork this repo
 
 Bonus points for creativity (custom actions, emojis, pet types, etc.)
+
+Here is a screenshot of my solution.
+![alt text](<Screenshot (446).png>)
